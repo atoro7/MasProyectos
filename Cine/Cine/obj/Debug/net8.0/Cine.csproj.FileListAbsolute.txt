@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\Cine\Cine\bin\Debug\net8.0\Cine.exe
+C:\Users\angel\source\repos\Cine\Cine\bin\Debug\net8.0\Cine.deps.json
+C:\Users\angel\source\repos\Cine\Cine\bin\Debug\net8.0\Cine.runtimeconfig.json
+C:\Users\angel\source\repos\Cine\Cine\bin\Debug\net8.0\Cine.dll
+C:\Users\angel\source\repos\Cine\Cine\bin\Debug\net8.0\Cine.pdb
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.AssemblyInfo.cs
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.dll
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\refint\Cine.dll
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.pdb
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\Cine.genruntimeconfig.cache
+C:\Users\angel\source\repos\Cine\Cine\obj\Debug\net8.0\ref\Cine.dll
