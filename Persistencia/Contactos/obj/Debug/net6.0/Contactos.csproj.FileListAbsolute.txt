@@ -1,0 +1,14 @@
+C:\Users\atoro\source\repos\Persistencia\Contactos\bin\Debug\net6.0\Contactos.exe
+C:\Users\atoro\source\repos\Persistencia\Contactos\bin\Debug\net6.0\Contactos.deps.json
+C:\Users\atoro\source\repos\Persistencia\Contactos\bin\Debug\net6.0\Contactos.runtimeconfig.json
+C:\Users\atoro\source\repos\Persistencia\Contactos\bin\Debug\net6.0\Contactos.dll
+C:\Users\atoro\source\repos\Persistencia\Contactos\bin\Debug\net6.0\Contactos.pdb
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.AssemblyInfoInputs.cache
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.AssemblyInfo.cs
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.dll
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\refint\Contactos.dll
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.pdb
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\Contactos.genruntimeconfig.cache
+C:\Users\atoro\source\repos\Persistencia\Contactos\obj\Debug\net6.0\ref\Contactos.dll
